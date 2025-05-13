@@ -1,4 +1,4 @@
-<h1 align="left">Olá!! Eu sou Amanda Maria</h1>
+<h1 align="left">Olá!! Eu sou a Amanda Maria</h1>
 
 ###
 
