@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Engenharia de Software<br><br>- Buscando minha primeira oportunidade de estágio na área de desenvolvimento<br><br>- Interesse em desenvolvimento fullstack </p>
+<p align="left">• Estudante de Engenharia de Software<br><br>• Buscando minha primeira oportunidade de estágio na área de desenvolvimento<br><br>• Interesse em desenvolvimento fullstack </p>
 
 ###
 
