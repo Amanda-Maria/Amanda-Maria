@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Estudante de Engenharia de Software.<br><br>• Buscando minha primeira oportunidade de estágio na área de desenvolvimento.<br>
+<p align="left">• Estudante de Engenharia de Software.<br><br>• Buscando minha primeira oportunidade de estágio na área de desenvolvimento.<br></p>
 
 ###
 
@@ -23,9 +23,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
-###
-
-<h2 align="left">Status</h2>
 
 ###
